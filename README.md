@@ -22,4 +22,4 @@ peak hours, as well as timely restocking of inventory. The objective is to
 determine the required resources and time for every operation, ranging from 
 food preparation to the timely replenishment of ingredients. The development of 
 this project is facilitated using the GPenSIM toolbox in MATLAB, enabling a 
-systematic approach to optimizing resources and time management in the fastfood restaurant industr
+systematic approach to optimizing resources and time management in the fastfood restaurant industry
